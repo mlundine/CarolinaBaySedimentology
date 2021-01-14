@@ -2,6 +2,8 @@
 
 Visual database for sediment auger logs.
 
+![Alt Text](https://https://github.com/mlundine/CarolinaBaySedimentology/SedGUI.gif)
+
 Installation:
 
 Download repository.
