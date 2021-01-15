@@ -32,4 +32,6 @@ python SedGUI.py
 
 Select a site, then click go to site and an image of the sediment will appear next to an image of the grain size histogram.
 
+Above each sediment image is the name with the depth measurements in centimeters (top, bottom).
+
 To go to a new site, first hit clear and then select the new site and then hit go to site.
