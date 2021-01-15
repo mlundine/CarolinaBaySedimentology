@@ -8,9 +8,13 @@ Installation:
 
 Download repository.
 
-Make a new Anaconda environment.
+Make a new Anaconda environment with python 3.7
+
+conda create --name CarBaySedGUI python=3.7
 
 Activate the environment.
+
+conda activate CarBaySedGUI
 
 install pyqt5 with:
 
@@ -20,7 +24,11 @@ SedGUI.py is the file to run in python.
 
 cd to the CarolinaBaySedimentology folder.
 
-python SedGUI.py will run the database.
+cd wherever_you_placed_it/CarolinaBaySedimentology
+
+Then run
+
+python SedGUI.py 
 
 Select a site, then click go to site and an image of the sediment will appear next to an image of the grain size histogram.
 
